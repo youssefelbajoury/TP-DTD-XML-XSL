@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="S2_Telecom.xsl"?>
+<!DOCTYPE operateur SYSTEM "S2_Telecom.dtd">
+<operateur>
+    <client code="A001" nom="EL Bajoury Youssef">
+        <abonnement num="AA001" type="GSM" dateAb="2026-11-01">
+            <facture numFact="FA001" dateFact="2026-12-01" montant="50.00" reglee="oui"/>
+        </abonnement>
+    </client>
+    <client code="A002" nom="EL Alaoui Fatima">
+        <abonnement num="AA002" type="FIXE" dateAb="2026-05-12">
+            <facture numFact="FA002" dateFact="2026-06-12" montant="120.50" reglee="oui"/>
+            <facture numFact="FA003" dateFact="2026-07-12" montant="120.50" reglee="non"/>
+        </abonnement>
+    </client>
+    <client code="A003" nom="Benjelloun Mehdi">
+        <abonnement num="AA003" type="GSM" dateAb="2025-03-15">
+            <facture numFact="FA004" dateFact="2025-04-15" montant="99.99" reglee="oui"/>
+        </abonnement>
+    </client>
+    <client code="A004" nom="Bennis Kenza">
+        <abonnement num="AA004" type="FIXE" dateAb="2026-01-10">
+            <facture numFact="FA005" dateFact="2026-02-10" montant="150.00" reglee="non"/>
+        </abonnement>
+    </client>
+    <client code="A005" nom="Tazi Amine">
+        <abonnement num="AA005" type="GSM" dateAb="2024-11-20">
+            <facture numFact="FA006" dateFact="2024-12-20" montant="75.00" reglee="oui"/>
+            <facture numFact="FA007" dateFact="2025-01-20" montant="80.00" reglee="oui"/>
+        </abonnement>
+    </client>
+    <client code="A006" nom="Idrissi Salma">
+        <abonnement num="AA006" type="GSM" dateAb="2026-08-05">
+            <facture numFact="FA008" dateFact="2026-09-05" montant="45.00" reglee="non"/>
+        </abonnement>
+    </client>
+    <client code="A007" nom="Chraibi Omar">
+        <abonnement num="AA007" type="FIXE" dateAb="2023-07-14">
+            <facture numFact="FA009" dateFact="2023-08-14" montant="200.00" reglee="oui"/>
+        </abonnement>
+    </client>
+    <client code="A008" nom="Lahlou Meryem">
+        <abonnement num="AA008" type="GSM" dateAb="2026-02-28">
+            <facture numFact="FA010" dateFact="2026-03-28" montant="60.00" reglee="oui"/>
+        </abonnement>
+    </client>
+    <client code="A009" nom="Bennani Yassine">
+        <abonnement num="AA009" type="FIXE" dateAb="2025-10-01">
+            <facture numFact="FA011" dateFact="2025-11-01" montant="110.00" reglee="non"/>
+        </abonnement>
+    </client>
+    <client code="A010" nom="Alaoui Mdaghri Zineb">
+        <abonnement num="AA010" type="GSM" dateAb="2026-09-15">
+            <facture numFact="FA012" dateFact="2026-10-15" montant="95.50" reglee="oui"/>
+        </abonnement>
+    </client>
+    <client code="A011" nom="Kettani Reda">
+        <abonnement num="AA011" type="GSM" dateAb="2026-04-01">
+            <facture numFact="FA013" dateFact="2026-05-01" montant="30.00" reglee="oui"/>
+        </abonnement>
+    </client>
+</operateur>
