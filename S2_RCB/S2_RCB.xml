@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE releve SYSTEM "S2_RCB.dtd">
+<?xml-stylesheet type="text/xsl" href="S2_RCB.xsl"?>
+<releve RIB="011112222333344445555666">
+    <dateReleve>2023-11-10</dateReleve>
+    <solde>18440.00</solde>
+    <operations dateDebut="2023-10-01" dateFin="2023-10-31">
+        <operation type="CREDIT" date="2023-10-02" montant="9500.00" description="Virement Salaire MEN"/>
+        <operation type="DEBIT" date="2023-10-04" montant="1200.00" description="Loyer Appartement"/>
+        <operation type="DEBIT" date="2023-10-05" montant="3400.00" description="Chèque Guichet N°4455"/>
+        <operation type="DEBIT" date="2023-10-08" montant="120.00" description="Prélèvement Assurance Auto"/>
+        <operation type="CREDIT" date="2023-10-12" montant="1500.00" description="Virement de Tiers - Remboursement"/>
+        <operation type="DEBIT" date="2023-10-15" montant="450.00" description="Paiement TPE Supermarché"/>
+        <operation type="DEBIT" date="2023-10-18" montant="250.00" description="Abonnement Internet Fibre"/>
+        <operation type="CREDIT" date="2023-10-20" montant="320.00" description="Remboursement Mutuelle Santé"/>
+        <operation type="DEBIT" date="2023-10-22" montant="800.00" description="Retrait GAB Agence Centrale"/>
+        <operation type="DEBIT" date="2023-10-25" montant="150.00" description="Paiement TPE Station Service"/>
+        <operation type="DEBIT" date="2023-10-28" montant="55.50" description="Paiement TPE Restaurant"/>
+        <operation type="DEBIT" date="2023-10-29" montant="80.00" description="Frais de Tenue de Compte"/>
+        <operation type="CREDIT" date="2023-10-30" montant="5000.00" description="Versement Espèces Agence"/>
+    </operations>
+</releve>
