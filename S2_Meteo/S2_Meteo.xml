@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE meteo SYSTEM "S2_Meteo.dtd">
+<?xml-stylesheet type="text/xsl" href="S2_Meteo.xsl"?>
+<meteo>
+    <mesure date="2026-11-01">
+        <ville nom="Casablanca" temperature="22" condition="Ensoleillé"/>
+        <ville nom="Rabat" temperature="20" condition="Nuageux"/>
+        <ville nom="Fes" temperature="18" condition="Pluvieux"/>
+        <ville nom="Oujda" temperature="19" condition="Nuageux"/>
+        <ville nom="Tanger" temperature="25" condition="Ensoleillé"/>
+        <ville nom="Marrakech" temperature="28" condition="Ensoleillé"/>
+        <ville nom="Ouarzazat" temperature="29" condition="Ensoleillé"/>
+        <ville nom="Agadir" temperature="20" condition="Nuageux"/>
+        <!-- Villes étendues -->
+        <ville nom="Dakhla" temperature="24" condition="Ensoleillé"/>
+        <ville nom="Laayoune" temperature="26" condition="Ensoleillé"/>
+        <ville nom="Meknès" temperature="17" condition="Pluvieux"/>
+        <ville nom="Tétouan" temperature="22" condition="Nuageux"/>
+        <ville nom="Essaouira" temperature="21" condition="Ensoleillé"/>
+        <ville nom="Kénitra" temperature="19" condition="Pluvieux"/>
+        <ville nom="Nador" temperature="23" condition="Nuageux"/>
+    </mesure>
+    <mesure date="2026-11-02">
+        <ville nom="Casablanca" temperature="21" condition="Pluvieux"/>
+        <ville nom="Rabat" temperature="23" condition="Ensoleillé"/>
+        <ville nom="Fes" temperature="19" condition="Nuageux"/>
+        <ville nom="Oujda" temperature="20" condition="Ensoleillé"/>
+        <ville nom="Tanger" temperature="23" condition="Pluvieux"/>
+        <ville nom="Marrakech" temperature="27" condition="Nuageux"/>
+        <ville nom="Ouarzazat" temperature="25" condition="Orageux"/>
+        <ville nom="Agadir" temperature="23" condition="Ensoleillé"/>
+        <!-- Villes étendues -->
+        <ville nom="Dakhla" temperature="25" condition="Ensoleillé"/>
+        <ville nom="Laayoune" temperature="28" condition="Ensoleillé"/>
+        <ville nom="Meknès" temperature="16" condition="Pluvieux"/>
+        <ville nom="Tétouan" temperature="20" condition="Orageux"/>
+        <ville nom="Essaouira" temperature="22" condition="Nuageux"/>
+        <ville nom="Kénitra" temperature="18" condition="Pluvieux"/>
+        <ville nom="Nador" temperature="21" condition="Ensoleillé"/>
+    </mesure>
+</meteo>
