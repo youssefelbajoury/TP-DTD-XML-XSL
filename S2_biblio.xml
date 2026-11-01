@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="S2_biblio.xsl"?>
+<!DOCTYPE biblio SYSTEM "biblio.dtd">
+<biblio>
+    <etudiant id="1" nom="EL Bajoury" prenom="Youssef" age="22">
+        <livre id="11" titre="JAVA" dateempre="2026-11-01" rendue="oui"/>
+        <livre id="12" titre="XML" dateempre="2026-11-01" rendue="non"/>
+        <livre id="13" titre="CSS" dateempre="2026-11-01" rendue="non"/>
+        <livre id="14" titre="JavaScript" dateempre="2026-11-01" rendue="oui"/>
+        <livre id="15" titre="PHP" dateempre="2026-11-01" rendue="oui"/>
+        <livre id="16" titre="C#" dateempre="2026-11-01" rendue="non"/>
+    </etudiant>
+    <etudiant id="2" nom="EL Alaoui" prenom="Mustafa" age="23">
+        <livre id="21" titre="SQL" dateempre="2026-10-01" rendue="oui"/>
+        <livre id="22" titre="HTML" dateempre="2026-10-01" rendue="oui"/>
+    </etudiant>
+    <etudiant id="3" nom="Mokhtar" prenom="Alaoui" age="21">
+        <livre id="31" titre="Python" dateempre="2026-09-01" rendue="non"/>
+        <livre id="32" titre="C++" dateempre="2026-09-01" rendue="oui"/>
+    </etudiant>
+</biblio>
